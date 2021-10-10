@@ -1,12 +1,12 @@
-### Hi there 👋
+### hey, i'm kat!
+
+- i’m currently working on... school stuff 😪
+- i’m currently learning python and javascript
+- how to reach me: i mean you probably either found me by stalking my discord 🤭.. or you're from school. either way, you know how to contact me :)
+- pronouns: she/her
+
 
 <!--
-**kaitlynn333/kaitlynn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kaitlynn333/kaitlynn333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
-hey, i'm kat!
-
-- 🔭 I’m currently working on school stuff
-- 🌱 I’m currently learning python and javascript
-- 📫 How to reach me: I mean you either found me by stalking my discord 🤭.. or you're from school. either way, you know how to contact me :)
-- 😄 Pronouns: she/her/hers
 -->
